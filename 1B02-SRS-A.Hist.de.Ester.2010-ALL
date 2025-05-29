@@ -1,52 +1,146 @@
-<item>		
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>		
-<link>NOLINK</link>		
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>		
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>		
-<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-TORRENTS		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
-<item>		
-<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A História de Ester (2010) - T01 - HD DUB[/B][/COLOR]</title>		
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c205d5fe2f7ce4308226c36f961d731e84bd2fb2</link>		
-<thumbnail>https://www.themoviedb.org/t/p/original/xYFFFxzveTx0QAdFKg1lDEckKJ5.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/4RNWhuOggDOwJJHaJ7d1eHKW0s6.jpg</fanart>		
-<info>A trajetória de uma jovem orfã judia, de grande fibra e beleza.</info>		
-<genre>GOSPEL</genre>		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-SERVER LS		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
-<item>		
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A História de Ester (2010) - T01 - HD DUB[/B][/COLOR]</title>		
-		
-<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 10 EPs[/B][/COLOR]</link>		
-		
-<link>https://ls.lsnew.workers.dev/0:/ESPC/GOSPEL/SRS/A.Hist.de.Ester/LS-T01E01.avi$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]A Historia de Ester [/B][/COLOR]</link>		
-<link>https://ls.lsnew.workers.dev/0:/ESPC/GOSPEL/SRS/A.Hist.de.Ester/LS-T01E02.avi$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]A Historia de Ester [/B][/COLOR]</link>		
-<link>https://ls.lsnew.workers.dev/0:/ESPC/GOSPEL/SRS/A.Hist.de.Ester/LS-T01E03.avi$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]A Historia de Ester [/B][/COLOR]</link>		
-<link>https://ls.lsnew.workers.dev/0:/ESPC/GOSPEL/SRS/A.Hist.de.Ester/LS-T01E04.avi$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]A Historia de Ester [/B][/COLOR]</link>		
-<link>https://ls.lsnew.workers.dev/0:/ESPC/GOSPEL/SRS/A.Hist.de.Ester/LS-T01E05.avi$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]A Historia de Ester [/B][/COLOR]</link>		
-<link>https://ls.lsnew.workers.dev/0:/ESPC/GOSPEL/SRS/A.Hist.de.Ester/LS-T01E06.avi$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]A Historia de Ester [/B][/COLOR]</link>		
-<link>https://ls.lsnew.workers.dev/0:/ESPC/GOSPEL/SRS/A.Hist.de.Ester/LS-T01E07.avi$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]A Historia de Ester [/B][/COLOR]</link>		
-<link>https://ls.lsnew.workers.dev/0:/ESPC/GOSPEL/SRS/A.Hist.de.Ester/LS-T01E08.avi$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]A Historia de Ester [/B][/COLOR]</link>		
-<link>https://ls.lsnew.workers.dev/0:/ESPC/GOSPEL/SRS/A.Hist.de.Ester/LS-T01E09.avi$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]A Historia de Ester [/B][/COLOR]</link>		
-<link>https://ls.lsnew.workers.dev/0:/ESPC/GOSPEL/SRS/A.Hist.de.Ester/LS-T01E10.avi$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]A Historia de Ester [/B][/COLOR]</link>		
-		
-<thumbnail>https://www.themoviedb.org/t/p/original/xYFFFxzveTx0QAdFKg1lDEckKJ5.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/4RNWhuOggDOwJJHaJ7d1eHKW0s6.jpg</fanart>		
-<info>A trajetória de uma jovem orfã judia, de grande fibra e beleza.</info>		
-<genre>GOSPEL</genre>		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+<item>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://i.ibb.co/NWfgpVX/SEL-ITEM-SRS-ICON.png</thumbnail>				
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
+<info>FAÇA SUA ESCOLHA 
+E DIVIRTA-SE </info>	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-1B2-SRS-A.Hist.de.Ester-ALL
+<item>	
+<title>[COLOR orange][B]A História de Ester[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://image.tmdb.org/t/p/original/mLAXUbqTzk6lZz7kIiWf90Zk510.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/4RNWhuOggDOwJJHaJ7d1eHKW0s6.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]A História de Ester
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2010
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]GOSPEL
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 10 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Uma jovem orfã judia, de grande fibra e beleza. Ao despertar o interesse do rei 
+Assuerro e tornar-se Rainha da Pérsia, Ester influência decisivamente o futuro de seu povo. 
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<item><title>[COLOR orange][B]TEMP 01 (2010) 10 EPs - HD DUB[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/01.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/4RNWhuOggDOwJJHaJ7d1eHKW0s6.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]A História de Ester[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/2EPC-CL/Gospel/SRS/2010.A.Hist.de.Ester/LS-T01E01.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/4RNWhuOggDOwJJHaJ7d1eHKW0s6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]A História de Ester[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/2EPC-CL/Gospel/SRS/2010.A.Hist.de.Ester/LS-T01E02.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/4RNWhuOggDOwJJHaJ7d1eHKW0s6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]A História de Ester[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/2EPC-CL/Gospel/SRS/2010.A.Hist.de.Ester/LS-T01E03.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/4RNWhuOggDOwJJHaJ7d1eHKW0s6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]A História de Ester[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/2EPC-CL/Gospel/SRS/2010.A.Hist.de.Ester/LS-T01E04.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/4RNWhuOggDOwJJHaJ7d1eHKW0s6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]A História de Ester[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/2EPC-CL/Gospel/SRS/2010.A.Hist.de.Ester/LS-T01E05.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/4RNWhuOggDOwJJHaJ7d1eHKW0s6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]A História de Ester[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/2EPC-CL/Gospel/SRS/2010.A.Hist.de.Ester/LS-T01E06.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/4RNWhuOggDOwJJHaJ7d1eHKW0s6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]A História de Ester[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/2EPC-CL/Gospel/SRS/2010.A.Hist.de.Ester/LS-T01E07.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/4RNWhuOggDOwJJHaJ7d1eHKW0s6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]A História de Ester[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/2EPC-CL/Gospel/SRS/2010.A.Hist.de.Ester/LS-T01E08.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/4RNWhuOggDOwJJHaJ7d1eHKW0s6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]A História de Ester[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/2EPC-CL/Gospel/SRS/2010.A.Hist.de.Ester/LS-T01E09.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/4RNWhuOggDOwJJHaJ7d1eHKW0s6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]A História de Ester[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/2EPC-CL/Gospel/SRS/2010.A.Hist.de.Ester/LS-T01E10.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/4RNWhuOggDOwJJHaJ7d1eHKW0s6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR black].[/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>			
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR orange][B]ERROS ? CHAME O SUPORTE[/B][/COLOR]</title>	
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/BnzRHfz/ERROS-SUPORTE.png</thumbnail>				
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
