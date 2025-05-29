@@ -1,7 +1,7 @@
 <channels>
 <channel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/9-SEL-GSPL-DRMS-ALL/refs/heads/main/1B-SEL-SRS-GSPL-LS-AL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/9-SEL-GSPL-DRMS-ALL/refs/heads/main/1B-SEL-SRS-GSPL-LS-ALL</externallink>
 <thumbnail>https://i.ibb.co/NWfgpVX/SEL-ITEM-SRS-ICON.png</thumbnail>				
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
 <info>FAÇA SUA ESCOLHA 
@@ -21,14 +21,22 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]A Biblia - Mini-Serie (2021) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/9-SEL-GSPL-DRMS-ALL/main/1B1-SRS-A.Biblia-Miniserie-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/qbzGLgO5WBwozGbOaTWALKiTXq9.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/d4534PgDNoBpls14K8fvfzm2jhV.jpg</fanart>
-<info>Assista a série A Biblia - Mini-Serie. 
-[COLOR orange][B]GOSPEL[/B][/COLOR]
-[COLOR orange][B]01 TEMP - 10 EPs[/B][/COLOR]
-[COLOR orange][B]ANO - 2021[/B][/COLOR]</info>
+<name>[COLOR white][B]A Bíblia (2021) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/9-SEL-GSPL-DRMS-ALL/refs/heads/main/1B01-SRS-A.Biblia-2021-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/qbzGLgO5WBwozGbOaTWALKiTXq9.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]A Bíblia
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2021
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]GOSPEL
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 10 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Os principais acontecimentos bíblicos da história da humanidade que 
+contam como tudo começou.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -230,7 +238,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR black].[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/9-SEL-GSPL-DRMS-ALL/refs/heads/main/1B-SEL-SRS-GSPL-LS-AL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/9-SEL-GSPL-DRMS-ALL/refs/heads/main/1B-SEL-SRS-GSPL-LS-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
 </channel>
@@ -240,7 +248,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/9-SEL-GSPL-DRMS-ALL/refs/heads/main/1B-SEL-SRS-GSPL-LS-AL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/9-SEL-GSPL-DRMS-ALL/refs/heads/main/1B-SEL-SRS-GSPL-LS-ALL</externallink>
 <thumbnail>https://i.ibb.co/nbZ50B0/SEL-ITEM.png</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
 </channel>
