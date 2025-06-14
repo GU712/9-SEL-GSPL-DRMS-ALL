@@ -1,8 +1,8 @@
 <item>	
 <title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
 <link>NOLINK</link>	
-<thumbnail>https://i.ibb.co/NWfgpVX/SEL-ITEM-SRS-ICON.png</thumbnail>				
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
+<thumbnail>https://i.ibb.co/yn6Bv4fX/SEL-ITEM-SRS.png</thumbnail>				
+<fanart>https://i.ibb.co/Xr8PH1yT/FAN-2.png</fanart>		
 <info>FAÇA SUA ESCOLHA 
 E DIVIRTA-SE </info>	
 </item>	
@@ -16,11 +16,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui a série: 
 [B]A Bíblia
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2021
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2021 a 2022
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]GOSPEL
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 10 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Os principais acontecimentos bíblicos da história da humanidade que 
-contam como tudo começou.
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 89 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Os principais acontecimentos bíblicos da história da humanidade que contam como 
+tudo começou.
 [/B][COLOR black].[/COLOR]
 Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
@@ -30,7 +30,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
-<item><title>[COLOR orange][B]TEMP 01 (2021) 10 EPs - HD DUB[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]TEMP 01 (2021) 89 EPs - HD DUB[/B][/COLOR]</title>
 <link>NOLINK</link>	
 <thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/01.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
@@ -39,8 +39,8 @@ E DIVIRTA-SE[/B]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]No Princípio[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/2EPC-CL/Gospel/SRS/2013.A.Biblia/LS-T01E01.mkv</link>
+<item><title>[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]A Criação[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E001.HDTV.x264.1080i%20-%20A.Cria%C3%A7%C3%A3o.Asy.mkv</link>
 <thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
 [COLOR black].[/COLOR]
 <info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
@@ -48,8 +48,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Êxodo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/2EPC-CL/Gospel/SRS/2013.A.Biblia/LS-T01E02.mkv</link>
+<item><title>[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Caim e Abel[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E002.HDTV.x264.1080i%20-%20Caim.e.Abel.Asy.mkv</link>
 <thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
 [COLOR black].[/COLOR]
 <info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
@@ -57,8 +57,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Pátria[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/2EPC-CL/Gospel/SRS/2013.A.Biblia/LS-T01E03.mkv</link>
+<item><title>[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Arca de Noé [COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E003.HDTV.x264.1080i%20-%20Arca.de.No%C3%A9..Asy.mkv</link>
 <thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
 [COLOR black].[/COLOR]
 <info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
@@ -66,8 +66,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Reino[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/2EPC-CL/Gospel/SRS/2013.A.Biblia/LS-T01E04.mkv</link>
+<item><title>[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]O Dilúvio[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E004.HDTV.x264.1080i%20-%20O.Dil%C3%BAvio.Asy.mkv</link>
 <thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
 [COLOR black].[/COLOR]
 <info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
@@ -75,8 +75,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Sobrevivência[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/2EPC-CL/Gospel/SRS/2013.A.Biblia/LS-T01E05.mkv</link>
+<item><title>[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Torre de Babel[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E005.HDTV.x264.1080i.Torre.de.Babel.Asy.mkv</link>
 <thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
 [COLOR black].[/COLOR]
 <info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
@@ -84,8 +84,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Esperança[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/2EPC-CL/Gospel/SRS/2013.A.Biblia/LS-T01E06.mkv</link>
+<item><title>[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]A Terra de Abrão[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E006.HDTV.x264.1080i.A.Terra.de.Abr%C3%A3o.Asy.mkv</link>
 <thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
 [COLOR black].[/COLOR]
 <info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
@@ -93,8 +93,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Missão[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/2EPC-CL/Gospel/SRS/2013.A.Biblia/LS-T01E07.mkv</link>
+<item><title>[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]A Parentela De Abrão[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E007.HDTV.x264.1080i.A.Parentela.De.Abr%C3%A3o.Asy.mkv</link>
 <thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
 [COLOR black].[/COLOR]
 <info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
@@ -102,8 +102,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Traição[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/2EPC-CL/Gospel/SRS/2013.A.Biblia/LS-T01E08.mkv</link>
+<item><title>[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Abrão e Sarai[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E008.HDTV.x264.1080i.Abr%C3%A3o.e.Sarai.Asy.mkv</link>
 <thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
 [COLOR black].[/COLOR]
 <info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
@@ -111,8 +111,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Paixão[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/2EPC-CL/Gospel/SRS/2013.A.Biblia/LS-T01E09.mkv</link>
+<item><title>[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]O Chamado De Abrão[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E009.HDTV.x264.1080i.O.Chamado.De.Abr%C3%A3o.Asy.mkv</link>
 <thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
 [COLOR black].[/COLOR]
 <info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
@@ -120,9 +120,720 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Coragem[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/2EPC-CL/Gospel/SRS/2013.A.Biblia/LS-T01E10.mkv</link>
+<item><title>[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Abrão no Egito[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E010.HDTV.x264.1080i.Abr%C3%A3o.no.Egito.Asy.mkv</link>
 <thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Maldição no Egito[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E011.HDTV.x264.1080i.Maldi%C3%A7%C3%A3o.no.Egito.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Ló vai Embora[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E012.HDTV.x264.1080i.L%C3%B3.vai.Embora.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]A Guerra dos Noves Reis[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E013.HDTV.x264.1080i.A.Guerra.dos.Noves.Reis.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/13.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]Aliança com Deus[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E014.HDTV.x264.1080i.Alian%C3%A7a.com.Deus.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/14.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white]Agar E Sarai[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E015.HDTV.x264.1080i.Agar.E.Sarai.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/15.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white]Sodoma E Gomorra[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E016.HDTV.x264.1080i.Sodoma.E.Gomorra.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/16.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E17[COLOR yellow] -> [COLOR white]A Visita dos Anjos[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E017.HDTV.x264.1080i.A.Visita.dos.Anjos.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/17.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E18[COLOR yellow] -> [COLOR white]Sara No Harém[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E018.HDTV.x264.1080i.Sara.No.Har%C3%A9m.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/18.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E19[COLOR yellow] -> [COLOR white]Nascimento De Isaque[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E019.HDTV.x264.1080i.Nascimento.De.Isaque.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/19.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E20[COLOR yellow] -> [COLOR white]O Sacrifício de Isaque[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E020.HDTV.x264.1080i.O.Sacrif%C3%ADcio.de.Isaque.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/20.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E21[COLOR yellow] -> [COLOR white]Esposa para Isaque[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E021.HDTV.x264.1080i.Esposa.para.Isaque.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/21.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E22[COLOR yellow] -> [COLOR white]Isaque e Rebeca[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E022.HDTV.x264.1080i.Isaque.e.Rebeca.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/22.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E23[COLOR yellow] -> [COLOR white]Nascimento dos Gêmeos[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E023.HDTV.x264.1080i.Nascimento.dos.G%C3%AAmeos.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/23.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E24[COLOR yellow] -> [COLOR white]A Inveja dos Filisteus[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E024.HDTV.x264.1080i.A.Inveja.dos.Filisteus.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/24.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E25[COLOR yellow] -> [COLOR white]A Primogenitura mkv[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E025.HDTV.x264.1080i.A.Primogenitura.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/25.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E26[COLOR yellow] -> [COLOR white]A Escada do Céu mkv[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E026.HDTV.x264.1080i.A.Escada.do.C%C3%A9u.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/26.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E27[COLOR yellow] -> [COLOR white]Encontro com Raquel mkv[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E027.HDTV.x264.1080i.Encontro.com.Raquel.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/27.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E28[COLOR yellow] -> [COLOR white]Casamento de Jacó mkv[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E028.HDTV.x264.1080i.Casamento.de.Jac%C3%B3.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/28.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E29[COLOR yellow] -> [COLOR white]Esposas de Jacó mkv[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E029.HDTV.x264.1080i.Esposas.de.Jac%C3%B3.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/29.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E30[COLOR yellow] -> [COLOR white]Lia Vs Raquel[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E030.HDTV.H264.1080i.%20Lia.Vs.Raquel.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/30.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E31[COLOR yellow] -> [COLOR white]O Salário de Jacó[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E031.HDTV.H264.1080i.%20O.Sal%C3%A1rio.de.Jac%C3%B3.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/31.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E32[COLOR yellow] -> [COLOR white]Jacó vai Embora[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E032.HDTV.H264.1080i.%20Jac%C3%B3.vai.Embora.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/32.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E33[COLOR yellow] -> [COLOR white]A luta com Deus[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E033.HDTV.H264.1080i.%20A.luta.com.Deus.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/33.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E34[COLOR yellow] -> [COLOR white]Diná é Desflorada[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E034.HDTV.H264.1080i.%20Din%C3%A1.%C3%A9.Desflorada.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/34.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E35[COLOR yellow] -> [COLOR white]Filhos de Jacó[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E035.HDTV.H264.1080i.%20Filhos.de.Jac%C3%B3.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/35.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E36[COLOR yellow] -> [COLOR white]A Maldade dos Irmãos[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E036.HDTV.H264.1080i.%20A.Maldade.dos.Irm%C3%A3os.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/36.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E37[COLOR yellow] -> [COLOR white]O Luto de Jacó[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E037.HDTV.H264.1080i.%20O.Luto.de.Jac%C3%B3.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/37.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E38[COLOR yellow] -> [COLOR white]A Culpa de Judá[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E038.HDTV.H264.1080i.%20A.Culpa.de.Jud%C3%A1.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/38.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E39[COLOR yellow] -> [COLOR white]A Tentação de José[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E039.HDTV.H264.1080i.%20A.Tenta%C3%A7%C3%A3o.de.Jos%C3%A9.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/39.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E40[COLOR yellow] -> [COLOR white]Governador do Egito[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E040.HDTV.H264.1080i.%20Governador.do.Egito.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/40.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E41[COLOR yellow] -> [COLOR white]Os filhos de Judá[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E041.HDTV.H264.1080i.%20Os.filhos.de.Jud%C3%A1.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/41.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E42[COLOR yellow] -> [COLOR white]Judá e Tamar[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E042.HDTV.H264.1080i.%20Jud%C3%A1.e.Tamar.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/42.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E43[COLOR yellow] -> [COLOR white]Jose´ Encontra Os Irmaos[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E043.HDTV.H264.1080i.%20Jose%C2%B4p.Encontra.Os.Irmaos.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/43.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E44[COLOR yellow] -> [COLOR white]José se Revela[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E044.HDTV.H264.1080i.%20Jos%C3%A9.se.Revela.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/44.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E45[COLOR yellow] -> [COLOR white]O Encontro com Israel[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E045.HDTV.H264.1080i.%20O.Encontro.com.Israel.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/45.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E46[COLOR yellow] -> [COLOR white]O Nascimento de Moises[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E046.HDTV.H264.1080i.%20O.Nascimento.de.Moises.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/46.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E47[COLOR yellow] -> [COLOR white]A Educacao de Moises[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E047.HDTV.H264.1080i.%20A.Educacao.de.Moises.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/47.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E48[COLOR yellow] -> [COLOR white]O Conflito de Moises[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E048.HDTV.H264.1080i.%20O.Conflito.de.Moises.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/48.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E49[COLOR yellow] -> [COLOR white]A Familia de Sangue[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E049.HDTV.H264.1080i.%20A.Familia.de.Sangue.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/49.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E50[COLOR yellow] -> [COLOR white]A Fuga de Moises[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E050.HDTV.H264.1080i.%20A.Fuga.de.Moises.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/50.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E51[COLOR yellow] -> [COLOR white]Moises e Zipora[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E051.HDTV.H264.1080i.%20Moises.e.Zipora.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/51.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E52[COLOR yellow] -> [COLOR white]A Situacao no Egito[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E052.HDTV.H264.1080i.%20A.Situacao.no.Egito.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/52.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E53[COLOR yellow] -> [COLOR white]A Sarca Ardente[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E053.HDTV.H264.1080i.%20A.Sarca.Ardente.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/53.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E54[COLOR yellow] -> [COLOR white]A Volta ao Egito[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E054.HDTV.H264.1080i.%20A.Volta.ao.Egito.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/54.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E55[COLOR yellow] -> [COLOR white]Encontro com Farao[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E055.HDTV.H264.1080i.%20Encontro.com.Farao.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/55.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E56[COLOR yellow] -> [COLOR white]Agua em Sangue[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E056.HDTV.H264.1080i.%20Agua.em.Sangue.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/56.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E57[COLOR yellow] -> [COLOR white]Sede no Egito[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E057.HDTV.H264.1080i.%20Sede.no.Egito.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/57.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E58[COLOR yellow] -> [COLOR white]Ras e Piolhos[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E058.HDTV.H264.1080i.%20Ras.e.Piolhos.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/58.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E59[COLOR yellow] -> [COLOR white]Peste dor e Fome[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E059.HDTV.H264.1080i.%20Peste.dor.e.Fome.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/59.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E60[COLOR yellow] -> [COLOR white]O Fogo do Ceu[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E060.HDTV.H264.1080i.%20O.Fogo.do.Ceu.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/60.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E61[COLOR yellow] -> [COLOR white]Os Gafanhotos e a Escuridao Asy mp4[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E061.HDTV.H264.1080i.%20Os.Gafanhotos.e.a.Escuridao.Asy.mp4.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/61.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E62[COLOR yellow] -> [COLOR white]A Dureza de Coracao[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E062.HDTV.H264.1080i.%20A.Dureza.de.Coracao.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/62.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E63[COLOR yellow] -> [COLOR white]O Anjo da Morte[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E063.HDTV.H264.1080i.%20O.Anjo.da.Morte.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/63.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E64[COLOR yellow] -> [COLOR white]O Exodo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E064.HDTV.H264.1080i.%20O.Exodo.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/64.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E65[COLOR yellow] -> [COLOR white]Arbertura do Mar[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E065.HDTV.H264.1080i.%20Arbertura.do.Mar.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/65.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E66[COLOR yellow] -> [COLOR white]Fome Sede e Perigo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E066.HDTV.H264.1080i.%20Fome.Sede.e.Perigo.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/66.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E67[COLOR yellow] -> [COLOR white]O Bezerro de Ouro[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E067.HDTV.H264.1080i.%20O.Bezerro.de.Ouro.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/67.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E68[COLOR yellow] -> [COLOR white]Os Dez Mandamentos[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E068.HDTV.H264.1080i.%20Os.Dez.Mandamentos.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/68.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E69[COLOR yellow] -> [COLOR white]O Sacerdocio[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E069.HDTV.H264.1080i.%20O.Sacerdocio.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/69.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E70[COLOR yellow] -> [COLOR white]Inveja no Arraial[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E070.HDTV.H264.1080i.%20Inveja.no.Arraial.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/70.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E71[COLOR yellow] -> [COLOR white]Rebeldia no Arraial[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E071.HDTV.H264.1080i.%20Rebeldia.no.Arraial.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/71.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E72[COLOR yellow] -> [COLOR white]Abertura da Terra[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E072.HDTV.H264.1080i.%20Abertura.da.Terra.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/72.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E73[COLOR yellow] -> [COLOR white]A Morte de Moises[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E073.HDTV.H264.1080i.%20A.Morte.de.Moises.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/73.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E74[COLOR yellow] -> [COLOR white]A Insegurança de Josue[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E074.HDTV.H264.1080i.%20A.Inseguran%C3%A7a.de.Josue.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/74.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E75[COLOR yellow] -> [COLOR white]Espias em Jerico[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E075.HDTV.H264.1080i.%20Espias.em.Jerico.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/75.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E76[COLOR yellow] -> [COLOR white]Raabe e os Espias[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E076.HDTV.H264.1080i.%20Raabe.e.os.Espias.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/76.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E77[COLOR yellow] -> [COLOR white]Abetura do Jordao[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E077.HDTV.H264.1080i.%20Abetura.do.Jordao.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/77.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E78[COLOR yellow] -> [COLOR white]Josue e Reconhecido[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E078.HDTV.H264.1080i.%20Josue.e.Reconhecido.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/78.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E79[COLOR yellow] -> [COLOR white]A Circuncicao[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E079.HDTV.H264.1080i.%20A.Circuncicao.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/79.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E80[COLOR yellow] -> [COLOR white]Rumo a Jerico[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E080.HDTV.H264.1080i.%20Rumo.a.Jerico.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/80.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E81[COLOR yellow] -> [COLOR white]As Mulharas de Jerico[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E081.HDTV.H264.1080i.%20As.Mulharas.de.Jerico.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/81.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E82[COLOR yellow] -> [COLOR white]Amor e Preconceito[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E082.HDTV.H264.1080i.%20Amor.e.Preconceito.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/82.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E83[COLOR yellow] -> [COLOR white]Espias em Ai[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E083.HDTV.H264.1080i.%20Espias.em.Ai.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/83.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E84[COLOR yellow] -> [COLOR white]Uma nova Raabe[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E084.HDTV.H264.1080i.%20Uma.nova.Raabe.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/84.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E85[COLOR yellow] -> [COLOR white]Derrota em Ai[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E085.HDTV.H264.1080i.%20Derrota.em.Ai.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/85.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E86[COLOR yellow] -> [COLOR white]O Pecado de Aca[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E086.HDTV.H264.1080i.%20O.Pecado.de.Aca.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/86.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E87[COLOR yellow] -> [COLOR white]Ai e Destruida[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E087.HDTV.H264.1080i.%20Ai.e.Destruida.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/87.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E88[COLOR yellow] -> [COLOR white]Josue é Enganado[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E088.HDTV.H264.1080i.%20Josue.%C3%A9.Enganado.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/88.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E89[COLOR yellow] -> [COLOR white]Final A Biblia[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/9:/01%20-%20NOVELAS/0-a-b-c-d-e/A%20B%C3%ADblia%20(2021)/Season%2001/A.Biblia.S01E089.HDTV.H264.1080i.%20Final.A.Biblia.Asy.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/89.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
 [COLOR black].[/COLOR]
 <info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
      CLIQUE E AGUARDE
