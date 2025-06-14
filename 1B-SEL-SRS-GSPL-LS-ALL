@@ -21,18 +21,40 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]A Bíblia (2021) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<name>[COLOR white][B]A Bíblia (2013) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/9-SEL-GSPL-DRMS-ALL/refs/heads/main/1B07-SRS-A.Biblia-2013-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/1rw8G6VKSBhZ8zXRlymUu6LMlm2.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/c3r1oiNXXsnKptA9srVUvemiJKH.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]A Bíblia
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2013
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]GOSPEL
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 10 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Os principais acontecimentos bíblicos da história da humanidade que 
+contam como tudo começou.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]A Bíblia (2021-2022) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/9-SEL-GSPL-DRMS-ALL/refs/heads/main/1B01-SRS-A.Biblia-2021-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/qbzGLgO5WBwozGbOaTWALKiTXq9.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
 [B]A Bíblia
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2021
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2021 a 2022
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]GOSPEL
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 10 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Os principais acontecimentos bíblicos da história da humanidade que 
-contam como tudo começou.
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 89 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Os principais acontecimentos bíblicos da história da humanidade que contam como 
+tudo começou.
 [/B][COLOR black].[/COLOR]
 Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
